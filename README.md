@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Lekha Pattim
 
-<!--
-**lekhapattim/lekhapattim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I recently graduated with a CS major and Human-Centered Design minor. I focus on backend development but enjoy working full-stack, and I’m passionate about creating technology centered on human needs.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
