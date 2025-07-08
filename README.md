@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### My name is Lekha Pattim
+<img src="./github-banner.svg" alt="Hi, I'm Lekha!" width="600" height="200" />
 
 I recently graduated with a CS major and Human-Centered Design minor. I focus on backend development but enjoy working full-stack, and I’m passionate about creating technology centered on human needs.
 
