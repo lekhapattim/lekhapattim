@@ -10,4 +10,4 @@ I recently graduated from Dartmouth College with a CS major and Human-Centered D
 
 😄 Pronouns: she/her
 
-🐕 Fun fact: I have a vizsla named Bolt⚡ and I love rock climbing and hiking🏞️
+🐕 Fun fact: I have a vizsla named Bolt⚡ and I love rock climbing🧗 and hiking🥾
