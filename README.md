@@ -4,12 +4,8 @@
 
 I recently graduated from Dartmouth College with a CS major and Human-Centered Design minor. I'm interested in building full-stack web applications, designing intuitive user experiences, solving complex problems, and creating data-driven tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: lekha.pattim.25@dartmouth.edu
-- 😄 Pronouns: she/her
-- 🐕 Fun fact: I have a viszla named Bolt⚡
+🌱 I’m currently learning more about backend scalability and system design.
+📫 How to reach me: lekha.pattim.25@dartmouth.edu
+😄 Pronouns: she/her
+🐕 Fun fact: I have a viszla named Bolt⚡
 -->
