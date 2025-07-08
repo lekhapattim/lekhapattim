@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="github-banner.svg" alt="Lekha's GitHub Banner" width="100%" />
-</p>
-
 I recently graduated with a CS major and Human-Centered Design minor. I focus on backend development but enjoy working full-stack, and I’m passionate about creating technology centered on human needs.
 
 - 🔭 I’m currently working on ...
